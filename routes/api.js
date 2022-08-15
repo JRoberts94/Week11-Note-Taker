@@ -62,12 +62,6 @@ router.post('/notes', (req, res) => {
 });
 
 
-// ## Bonus
-
-// You haven’t learned how to handle DELETE requests, but this application offers that functionality on the front end. As a bonus, try to add the DELETE route to the application using the following guideline:
-
-// * `DELETE /notes/:id` should receive a query parameter that contains the id of a note to delete.
-//  To delete a note, you'll need to read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
 
 router.delete('/notes/:id', (req, res) => {
 

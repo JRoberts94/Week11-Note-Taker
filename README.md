@@ -1,5 +1,5 @@
 
-# Note Taker
+# Week 11 - Note Taker
 
 ![MIT-licensed](https://img.shields.io/badge/License-MIT-red)
 
@@ -10,7 +10,7 @@
 - [Demo](#demo)
 
 ## Demo
-[demo](https://watch.screencastify.com/v/moIyf8CmPTgAIZmGruYi)
+[demo](https://watch.screencastify.com/v/LsBEAEb6eyexU8MVuwAw)
 
 ## Description
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app.
@@ -37,7 +37,7 @@ test and learning
 this is an open source project, you may use and change at your own leisure
 
 ## Test Instructions
-in command console, type npm i or npm install <br> then once dependencies are downloaded type node index.js <br> (each answer requires validation for input)
+in command console, type npm i or npm install <br> then once dependencies are downloaded type npm start to run server.js <br>
 
 ## Questions
 feel free to contact me, for any questions or improvements you think of
@@ -46,5 +46,10 @@ Visit my GitHub profile here: [JRoberts94](https://github.com/JRoberts94)
 <br>
 Email: jake.shaun.roberts1994@gmail.com
 
+## Deployment
+[Heroku APP Link](https://jroberts94-week11-note-taker.herokuapp.com/)
+<br>
+![demo-image](./images/week11-screenshot.png)
+
 ## Technology used
-javascript <br> node.js <br> 
+javascript <br> node.js <br> npm
