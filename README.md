@@ -10,7 +10,7 @@
 - [Demo](#demo)
 
 ## Demo
-[demo](https://watch.screencastify.com/v/LsBEAEb6eyexU8MVuwAw)
+[Demo Walkthrough Video](https://watch.screencastify.com/v/LsBEAEb6eyexU8MVuwAw)
 
 ## Description
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app.
